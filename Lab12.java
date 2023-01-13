@@ -1,7 +1,7 @@
 package Lab12;
 import java.util.Scanner;
 import java.util.Random;
-public class Lab12 {
+public class Lab12a {
 	public static void main(String[] args) {
 		int tenRandomIntegers[] = new int[10];
 		Random random = new Random();
